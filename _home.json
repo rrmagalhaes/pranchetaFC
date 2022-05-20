@@ -1,0 +1,83 @@
+{
+    "count": {
+        "players": 0,
+        "coaches": 0,
+        "clubs": 9,
+        "competitions": 0,
+        "referees": 0
+    },
+    "clubs": [
+        {
+            "id": "1023",
+            "league": "BRA1",
+            "competitionID": "BRA1",
+            "competitionName": "Campeonato Brasileiro S\u00e9rie A",
+            "name": "SE Palmeiras S\u00e3o Paulo",
+            "logoImage": "https://tmssl.akamaized.net/images/wappen/medium/1023.png?lm=1411204983"
+        },
+        {
+            "id": "84678",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "SE Palmeiras S\u00e3o Paulo B",
+            "logoImage": "https://tmssl.akamaized.net/images/wappen/medium/84678.png?lm=1600019311"
+        },
+        {
+            "id": "14807",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "SE Palmeiras S\u00e3o Paulo U20",
+            "logoImage": "https://tmssl.akamaized.net/images/wappen/medium/14807.png?lm=1411204983"
+        },
+        {
+            "id": "93047",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Ferrocarril Palmeiras",
+            "logoImage": "https://tmssl.akamaized.net/images/wappen/medium/93047.png?lm=1636122420"
+        },
+        {
+            "id": "14880",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "SE Palmeiras S\u00e3o Paulo U17",
+            "logoImage": "https://tmssl.akamaized.net/images/wappen/medium/14880.png?lm=1411204983"
+        },
+        {
+            "id": "61507",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Palmeiras FC U17",
+            "logoImage": "https://tmssl.akamaized.net/images/wappen/medium/61507.png?lm=1510826316"
+        },
+        {
+            "id": "61508",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Palmeiras FC U15",
+            "logoImage": "https://tmssl.akamaized.net/images/wappen/medium/61508.png?lm=1510826316"
+        },
+        {
+            "id": "61506",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Palmeiras FC",
+            "logoImage": "https://tmssl.akamaized.net/images/wappen/medium/61506.png?lm=1510826316"
+        },
+        {
+            "id": "93741",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Palmeiras FC U19",
+            "logoImage": "https://tmssl.akamaized.net/images/wappen/medium/93741.png?lm=1641321731"
+        }
+    ]
+}
